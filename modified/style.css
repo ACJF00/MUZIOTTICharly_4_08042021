@@ -443,6 +443,7 @@ nav .caret {
 .mg-lg {
     margin-top: 10px;
     margin-bottom: 40px;
+    color: #333333!important;
 }
 
 .btn {
@@ -684,6 +685,7 @@ p {
     max-width: 600px;
     margin: auto auto auto auto;
     font-weight: 800;
+    font-size: 1.2em;
 }
 
 .h1 {
