@@ -42,6 +42,7 @@ a:hover {
 .bloc .container {
     padding-left: 0;
     padding-right: 0;
+    position: relative;
 }
 
 .bloc-lg {
@@ -639,7 +640,6 @@ a[data-lightbox]:hover img {
     background: none;
 }
 
-h1,
 h2,
 h3,
 h4,
@@ -723,7 +723,9 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    font-family: "helvetica";
+    font-weight: 400;
+    color: white!important;
 }
 
 h4 {
@@ -775,7 +777,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important;
 }
 
 .btn-atomic-tangerine {
