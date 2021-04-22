@@ -444,6 +444,7 @@ nav .caret {
 .mg-lg {
     margin-top: 10px;
     margin-bottom: 40px;
+    font-size: 18px;
 }
 
 .btn {
@@ -659,7 +660,7 @@ a {
 }
 
 .hero-bloc-text {
-    font-size: 38px;
+    font-size: 60px;
 }
 
 .hero-bloc-text-sub {
