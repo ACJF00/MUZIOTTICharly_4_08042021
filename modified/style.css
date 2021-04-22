@@ -100,10 +100,6 @@ a:hover {
     background-attachment: fixed;
 }
 
-.d-bloc {
-    color: rgba(255, 255, 255, .7);
-}
-
 .d-bloc button:hover {
     color: rgba(255, 255, 255, .9);
 }
@@ -134,7 +130,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: rgba(0, 0, 0, .9);
 }
 
 .d-bloc .a-btn:hover,
@@ -652,7 +648,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: black!important;
 }
 
 .container {
@@ -738,8 +734,12 @@ h4 {
     margin-top: 24px;
 }
 
-.white {
+.black {
     color: black!important;
+}
+
+.white {
+    color: white!important;
 }
 
 .portfolio-thumb {
